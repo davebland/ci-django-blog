@@ -4,3 +4,4 @@
 
 Python, Django, Travis, Heroku
 
+[![Build Status](https://travis-ci.org/davebland/ci-django-blog.svg?branch=master)](https://travis-ci.org/davebland/ci-django-blog)
